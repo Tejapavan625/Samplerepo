@@ -1,3 +1,7 @@
 this is new sample
+<<<<<<< HEAD
+ localrepo
+=======
 
 for local repo
+>>>>>>> c7e4b0c4d43b0fcc94e7456ceddfd2aba00d5b88
