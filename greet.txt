@@ -1,3 +1,2 @@
 Greet
-
-localrepo
+ for local repo 

@@ -1,2 +1,4 @@
 hello newtrail
  edit for pull operatiobn
+
+for local repo
